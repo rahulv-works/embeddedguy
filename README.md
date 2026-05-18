@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @embedded-guy Rahul
-- 📫 How to reach me mailid:v.rahulbharata17@gmail.com
+- 👋 Hi, I’m @embedded-guy Socket Pilot
+- 📫 How to reach me mailid:socketpilot@gmail.com
 
 <!---
  is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
